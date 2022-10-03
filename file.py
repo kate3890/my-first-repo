@@ -1,2 +1,2 @@
-def broccolini(a, b):
+def potato(a, b):
     return a + b
