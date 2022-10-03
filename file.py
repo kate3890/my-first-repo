@@ -1,2 +1,2 @@
-def sum(a, b):
+def tom(a, b):
     return a + b
